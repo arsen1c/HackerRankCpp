@@ -1,4 +1,4 @@
-// EXAMPLE!
+				/* FUNCTION Problem */
 
 #include <iostream>
 using namespace std;

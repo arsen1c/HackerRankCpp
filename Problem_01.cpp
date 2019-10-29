@@ -1,3 +1,5 @@
+					/* FOR LOOP */
+
 // problem link- https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
 #include <iostream>
 using namespace std;

@@ -1,2 +1,2 @@
-# HackerRankC++ https://www.hackerrank.com/Arsen1c
+# HackerRankC++
 My solution for C++ HackerRank Problems.
